@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+
+    package="ca.bart.plugin">
+
+    <application android:allowBackup="true" android:supportsRtl="true">
+
+        <receiver android:name=".AlarmReceiver" />
+
+    </application>
+
+</manifest>
